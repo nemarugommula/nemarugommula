@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishnu Nemarugommula
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently working in ServiceNow as Software Engineer
+- 🌱 I’m currently working in ServiceNow as a Software Engineer
 - 💞️ I’m looking to collaborate on any Full stack projects.
 - 📫 How to reach me : https://www.linkedin.com/in/vishnu-nemarugommula-186ba3162/ , 
 
